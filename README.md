@@ -5,9 +5,9 @@ I don't let that discourage me.
 
 ![aoc stages](https://raw.githubusercontent.com/aleksacu/advent-of-code-2020/main/aoc-stages.png)
 
-| Day                                      | Languages           |
-| ---------------------------------------- | ------------------- |
-| [1](https://adventofcode.com/2021/day/1) | [go](day01/main.go) |
+| Day                                      | Languages                                  |
+| ---------------------------------------- | ------------------------------------------ |
+| [1](https://adventofcode.com/2021/day/1) | [go](day01/main.go), [lua](day01/main.lua) |
 
 ## Contact 🙋‍♂️
 

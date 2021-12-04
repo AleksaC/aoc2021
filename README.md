@@ -10,6 +10,7 @@ I don't let that discourage me.
 | [1](https://adventofcode.com/2021/day/1) | [go](day01/main.go), [lua](day01/main.lua) |
 | [2](https://adventofcode.com/2021/day/2) | [python](day02/main.py)                    |
 | [3](https://adventofcode.com/2021/day/3) | [python](day03/main.py)                    |
+| [4](https://adventofcode.com/2021/day/4) | [node](day04/main.js)                      |
 
 ## Contact 🙋‍♂️
 
